@@ -1,9 +1,3 @@
-# self_driving_for_flying
-Using sensor for autonomous driving and flying drone
-
-프로젝트의 최종형태는 비행드론을 만드는 것이다. 하하!
-
-
 ## 1. Lane Detection
 ---
 자율주행에 사용 가능 한 여러개의 센서가 있겠지만 카메라만 먼저 구현하도록 해보자. 개발과 동시에 정리를 할 예정이라. 자율주행에 막 입문을 하려는 사람들이 보면 좋을 것 같다. 
